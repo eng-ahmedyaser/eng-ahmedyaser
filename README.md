@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yaser</h1>
-<h3 align="center">EECE Student Seeking Internships and Learning Opportunities in Analog IC Design.</h3>
+<h3 align="center">EECE Student Seeking Internships and Opportunities in Analog IC Design.</h3>
 
 - 📫 Email **ahmedyaser.official@outlook.com**
 
