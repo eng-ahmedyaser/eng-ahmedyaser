@@ -3,8 +3,6 @@
 
 - 📫 Email **ahmedyaser.official@outlook.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1mA6rc9WUrJrrIsXbm99sMi4LbNGkhA-i/view?usp=drivesdk](https://drive.google.com/file/d/1mA6rc9WUrJrrIsXbm99sMi4LbNGkhA-i/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eng-ahmedyaser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-sherif-6343b219b/" height="30" width="40" /></a> 
